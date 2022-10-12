@@ -3,9 +3,9 @@
 
 最近的一些可视化的小程序
 
-   DemoforWindowBig		单框图的窗口放大示例
+  DemoforWindowBig		单框图的窗口放大示例
   
-   DemoforWindowBig_plus	双框图的窗口放大示例
+  DemoforWindowBig_plus	双框图的窗口放大示例
 
 张量可视化
   
