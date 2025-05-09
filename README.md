@@ -11,8 +11,6 @@
     DemoColor3Dtensor ——> 张量可视化示例
     DemoColor3Dtensor_forNet ——> 网络图中的张量可视化示例
     DemoColorBar ——> ColorBar的得到示例
-
-![[Illustration of F-Conv](https://raw.githubusercontent.com/XieQi2015/ImageFolder/master/F-Conv/Fig4.jpg](https://github.com/XieQi2015/My-Fig-Plot/blob/main/%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B.png))
-
+![Illustration of F-Conv](https://github.com/XieQi2015/My-Fig-Plot/blob/main/%E7%BB%93%E6%9E%9C%E7%A4%BA%E4%BE%8B.png)
 谢琦
 2019
